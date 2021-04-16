@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Permissions: all-permissions
+Application-Name: Caixaki
+Specification-Title: Villas 
+Specification-Vendor: Villas
+Implementation-Vendor: Villas
+Codebase: * 
+Trusted-Library: true
+Trusted-Only: true
+Application-Library-Allowable-Codebase: *
+Caller-Allowable-Codebase: *
