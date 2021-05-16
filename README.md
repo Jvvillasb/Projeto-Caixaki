@@ -2,7 +2,7 @@
 
 > Projeto de um ERP-Compacto - Utilizando JSF, Spring-Framework, Spring-Security e Prime-Faces
 
-<p align="center"><a href=><img src="https://i.picasion.com/pic91/91f3e81c238642c8f39e57e3170da67b.gif" width="400" height="294" border="0" alt="" /></a><br/></a></p>
+<p align="center"><a><img src="https://i.picasion.com/pic91/91f3e81c238642c8f39e57e3170da67b.gif" width="400" height="294" border="0" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/">https://picasion.com/</a></p>
 
 ### Ajustes e melhorias
 
